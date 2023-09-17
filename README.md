@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Suvrat Kumar Nanda</h1>
 <h3 align="center">A Passionate Application Support and Devops Engineer from India</h3>
-<img align="right"alt=coding width=400 src="![image](https://github.com/snanda2/snanda2/assets/43516302/18e2fd89-3365-4323-9207-d8d157b2c1fc)
+<img align="right"alt=coding width=400 src="[![image](https://github.com/snanda2/snanda2/assets/43516302/18e2fd89-3365-4323-9207-d8d157b2c1fc)](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw32eiqJ3M-ijfmB3rOb6hVf&ust=1695050361349000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCMjl0u74sYEDFQAAAAAdAAAAABAI)
 ">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=snanda2&label=Profile%20views&color=0e75b6&style=flat" alt="snanda2" /> </p>
 
